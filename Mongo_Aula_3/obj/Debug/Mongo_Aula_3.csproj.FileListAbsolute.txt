@@ -1,0 +1,13 @@
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\Mongo_Aula_3.exe.config
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\Mongo_Aula_3.exe
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\Mongo_Aula_3.pdb
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\MongoDB.Bson.dll
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\MongoDB.Driver.dll
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\MongoDB.Bson.xml
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\MongoDB.Driver.xml
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\obj\Debug\Mongo_Aula_3.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\obj\Debug\Mongo_Aula_3.exe
+C:\Users\andre\Desktop\Mongo_Aula_3\Mongo_Aula_3\obj\Debug\Mongo_Aula_3.pdb
